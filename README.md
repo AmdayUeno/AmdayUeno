@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> <Olá , eu sou a Amanda Ueno!/> </p>
+<p align="left">Olá , eu sou a Amanda Ueno!</p>
 
 ###
 
