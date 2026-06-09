@@ -40,6 +40,6 @@
 
 ###
 
-<p align="left">📫 Contato<br><br>- LinkedIn: https://www.linkedin.com/in/amanda-ueno/<br>- Email: amanda.ayumi004@gmail.com</p>
+<p align="left">📫 Contato<br><br>- LinkedIn: https://www.linkedin.com/in/amanda-ueno/ </p>
 
 ###
